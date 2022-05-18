@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8587e122-1efb-42a9-b05e-b6a471f6ab39": {
+      "ProjectGuid": "8587e122-1efb-42a9-b05e-b6a471f6ab39",
+      "DisplayName": "LMS_Member_Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
